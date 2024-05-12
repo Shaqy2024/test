@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(139, 170, 197);
+}
+.containar {
+    /* align-items: center; */
+    margin-left: 410px;
+    margin-top: 77px;
+    font-size: 25px;
+}
+input#Height {
+    border: none;
+    margin-left: 15px;
+    width: 199px;
+    height: 27px;
+    border-radius: 4px;
+}
+input#weight {
+    border: none;
+    margin-left: 15px;
+    width: 199px;
+    height: 27px;
+    border-radius: 4px;
+}
+label {
+    font-size: 26px;
+    font-family: sans-serif;
+    color: floralwhite;
+}
+button {
+    margin-left: 11.3rem;
+    padding: 2px;
+    width: 8rem;
+    font-size: 22px;
+    border: none;
+    border-radius: 4px;
+}
+p{
+    font-size: 26px;
+    font-family: sans-serif;
+    color: floralwhite;
+}
